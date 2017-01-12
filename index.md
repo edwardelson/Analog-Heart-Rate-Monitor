@@ -6,8 +6,8 @@ _image from [http://embedded-lab.com](http://embedded-lab.com)_
 
 
 The following is an implementation of the system in Breadboard.  
-![Heart Rate Sensor 1](https://googledrive.com/host/0B3qXE5D5r-qCYzhBUF81cFN6Wlk/IMG_20151106_113241.jpg)  
-![Heart Rate Sensor 2](https://googledrive.com/host/0B3qXE5D5r-qCYzhBUF81cFN6Wlk/IMG_20151106_114308_HDR.jpg)  
+![Heart Rate Sensor 1](https://dl.dropboxusercontent.com/s/o0aebyyv6opk29u/blood_pulse.jpg?dl=0)  
+![Heart Rate Sensor 2](https://dl.dropboxusercontent.com/s/t9p3zcy9gpzvwz8/blood_pulse2.jpg?dl=0)  
 
 #IMPLEMENTATION 
 
