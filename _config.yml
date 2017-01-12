@@ -1,0 +1,8 @@
+title: Analog Heart Monitor
+description: Edward Elson | Aditya Hendraatmaja
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-dinky
+
+gems:
+  - jekyll-mentions
